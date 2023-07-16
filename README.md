@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
 
-<a href="https://buntyprasadnayak.github.io">
+<a href="https://buntyprasadnayak.github.io" target="_blank">
   <kbd>
-  <img align="centre" alt="buntyprasadnayak.github.io" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
+  <img align="centre" alt="buntyprasadnayak.github.io" width="22px" src="https://www.pngwing.com/en/search?q=github" />
 </a>
  
    
