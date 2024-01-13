@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-- 💻
+- 💻 Software Engineer / Machine Learning Engineer
 - 🏫 2024 B.E. Computer Science from Chandigarh University
 - 🙋‍ More about me: Visit my [website](https://buntyprasadnayak.github.io/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/buntyprasadnayak)
