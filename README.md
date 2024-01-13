@@ -24,3 +24,11 @@
 - 🏫 2024 B.E. Computer Science from Chandigarh University
 - 🙋‍ More about me: Visit my [website](https://buntyprasadnayak.github.io/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/buntyprasadnayak)
+
+Skills Summary
+Languages               : C++, Python, SQL, HTML, CSS 
+Developer Tools         : Machine Learning, Tensorflow, GitHub, Keras, Netlify 
+Technologies/Frameworks : VS Code, Colab, Oracle, MySQL
+Interpersonal Skills    : Leadership, Public Speaking, Problem Solving, TeamWork
+
+
