@@ -8,7 +8,7 @@
 
 <a href="https://buntyprasadnayak.github.io" target="_blank">
   <kbd>
-  <img align="centre" alt="buntyprasadnayak.github.io" target="_blank" width="22px" src="https://www.pngwing.com/en/search?q=github" />
+  <img align="centre" alt="buntyprasadnayak.github.io"  width="22px" src="https://www.pngwing.com/en/search?q=github" />
 </a>
  
    
@@ -25,7 +25,7 @@
 - 🙋‍ More about me: Visit my [website](https://buntyprasadnayak.github.io/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/buntyprasadnayak)
 
-**Skills Summary** <br/>
+**Skills Summary** <br/> <br/>
 Languages               : C++, Python, SQL, HTML, CSS <br/>
 Developer Tools         : Machine Learning, Tensorflow, GitHub, Keras, Netlify <br/>
 Technologies/Frameworks : VS Code, Colab, Oracle, MySQL <br/>
