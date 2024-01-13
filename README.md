@@ -26,9 +26,9 @@
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/buntyprasadnayak)
 
 Skills Summary
-Languages               : C++, Python, SQL, HTML, CSS 
-Developer Tools         : Machine Learning, Tensorflow, GitHub, Keras, Netlify 
-Technologies/Frameworks : VS Code, Colab, Oracle, MySQL
-Interpersonal Skills    : Leadership, Public Speaking, Problem Solving, TeamWork
+Languages               : C++, Python, SQL, HTML, CSS <br/>
+Developer Tools         : Machine Learning, Tensorflow, GitHub, Keras, Netlify <br/>
+Technologies/Frameworks : VS Code, Colab, Oracle, MySQL <br/>
+Interpersonal Skills    : Leadership, Public Speaking, Problem Solving, TeamWork <br/>
 
 
