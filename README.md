@@ -25,7 +25,7 @@
 - 🙋‍ More about me: Visit my [website](https://buntyprasadnayak.github.io/)
 - 🖇 Follow me on [LinkedIn](https://linkedin.com/in/buntyprasadnayak)
 
-**Skills Summary** <br/> <br/>
+**Skills Summary** <br/>
 Languages               : C++, Python, SQL, HTML, CSS <br/>
 Developer Tools         : Machine Learning, Tensorflow, GitHub, Keras, Netlify <br/>
 Technologies/Frameworks : VS Code, Colab, Oracle, MySQL <br/>
