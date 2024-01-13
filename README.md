@@ -8,7 +8,7 @@
 
 <a href="https://buntyprasadnayak.github.io" target="_blank">
   <kbd>
-  <img align="centre" alt="buntyprasadnayak.github.io" width="22px" src="https://www.pngwing.com/en/search?q=github" />
+  <img align="centre" alt="buntyprasadnayak.github.io" target="_blank" width="22px" src="https://www.pngwing.com/en/search?q=github" />
 </a>
  
    
